@@ -1,4 +1,4 @@
-![I am a Web Developer.](https://pbs.twimg.com/profile_banners/1450814501964509192/1634753587/1080x360)
+
 ### Hi there 👋, I'm Mehedi Alam
 #### I am a Web Developer.
 
