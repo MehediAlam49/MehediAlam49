@@ -3,17 +3,17 @@
 #### I am a Web Developer.
 
 
-I am a professional Front End Developer and I am an expert in WordPress And Graphics Design. I would love to have the opportunity to discuss your project with you.
+I am a professional Front End Developer and I am an expert in Django And Graphics Design. I would love to have the opportunity to discuss your project with you.
 
-I am very familiar with WordPress and am a passionate WordPress developer who can make error-free websites. I am able to set up your full WordPress website with your requirement. I will optimize your full website and make an eye-catching and professional site for your site. I pride myself on doing quality work and maintaining excellent communication.
+I am very familiar with Django and am a passionate backend developer who can make error-free websites. I am able to set up your Full-stack website with your requirement. I will optimize your full website and make an eye-catching and professional site for your site. I pride myself on doing quality work and maintaining excellent communication.
 I still believe communication is key to any successful project.
 
-Skills: JS / HTML / CSS / WordPress 
+Skills: Django / JS / HTML / CSS / Bootstrap / WordPress 
 
-- 🔭 I’m currently working on WordPress. 
-- 🌱 I’m currently learning JavaScript. 
+- 🔭 I’m currently working on Django. 
+- 🌱 I’m currently learning React JS. 
 - 👯 I’m looking to collaborate on Github. 
-- 🤔 I’m looking for help with PHP 
+- 🤔 I’m looking for help with Django 
 - 💬 Ask me about Web design 
 
 
