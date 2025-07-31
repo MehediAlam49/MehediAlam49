@@ -23,10 +23,10 @@ Skills: JS / HTML / CSS / WordPress
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediAlam49&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MehediAlam49)  
+[![Mehedi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MehediAlam49&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 ![GitHub metrics](https://metrics.lecoq.io/MehediAlam49)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MehediAlam49)  
 
-![Profile views](https://gpvc.arturio.dev/MehediAlam49)  
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MehediAlam49)  
