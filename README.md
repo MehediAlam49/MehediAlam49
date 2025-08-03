@@ -1,32 +1,155 @@
 
-### Hi there 👋, I'm Mehedi Alam
-#### I am a Web Developer.
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋, I'm Mehedi Alam! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
 
-I am a professional Front End Developer and I am an expert in Django And Graphics Design. I would love to have the opportunity to discuss your project with you.
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer with strong expertise in Django and Python, along with experience in building APIs and backend systems.</p>
 
-I am very familiar with Django and am a passionate backend developer who can make error-free websites. I am able to set up your Full-stack website with your requirement. I will optimize your full website and make an eye-catching and professional site for your site. I pride myself on doing quality work and maintaining excellent communication.
-I still believe communication is key to any successful project.
-
-Skills: Django / JS / HTML / CSS / Bootstrap / WordPress 
-
-- 🔭 I’m currently working on Django. 
-- 🌱 I’m currently learning React JS. 
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💻 I’m currently learning React.
 - 👯 I’m looking to collaborate on Github. 
-- 🤔 I’m looking for help with Django 
+- 🤔 I’m looking for help with PHP 
 - 💬 Ask me about Web design 
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MehediAlam49&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
+
+---
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MehediAlam49)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MehediAlam49/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MehediAlam49)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Mehedi.Alam49/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MehediAlam49)  
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediAlam49)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Expanding my expertise in Django for full-stack development.</li>
+  <li>Deepening my understanding of Python OOP concepts.</li>
+  <li>Enhancing my backend skills with Express and API development.</li>
+  <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
+  <li>Learning about serverless functions and microservices architecture.</li>
+  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
+  <li>Integrating OpenAI APIs with tools like Typebot for chatbot automation.</li>
+  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
+</ul>
+  
+<br />
+<br />
+<br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediAlam49&show_icons=true&count_private=true)  
 
-[![Mehedi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MehediAlam49&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
-![GitHub metrics](https://metrics.lecoq.io/MehediAlam49)  
+<br />
+<br clear="both"/>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MehediAlam49)  
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MehediAlam49)  
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3><strong>GitHub Stats</strong></h3>
+      <a href="https://github.com/MehediAlam49">
+        <img src="https://github-readme-stats.vercel.app/api?username=MehediAlam49&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3><strong>Streak Stats</strong></h3>
+      <a href="https://github.com/MehediAlam49">
+        <img src="https://streak-stats.demolab.com?user=MehediAlam49&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3><strong>Latest Project</strong></h3>
+      <a href="https://github.com/MehediAlam49/news_portal">
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=MehediAlam49&repo=multi-format-ai-agents&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
+      </a>
+    </td>
+    <td align="center">
+      <h3><strong>Top Contributions</strong></h3>
+      <a href="https://github.com/MehediAlam49">
+        <img src="https://github-contributor-stats.vercel.app/api?username=MehediAlam49&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehediAlam49&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Contact Section--> 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:mehedialam806@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="mehedialam806@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://twitter.com/MehediAlam49" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="MehediAlam49" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/mehedialam_49/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="mehedialam_49" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/MehediAlam49" target="_blank">
+<img src="./github.png" width=50 height=50 alt="MehediAlam49" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/mehedialam49/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="mehedialam49" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
+
+
+
+<br clear="both">
+
+
+<!-- Snake Contribution Animation -->
+<h2 align="center">🐍 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Aɴɪᴍᴀᴛɪᴏɴ 🐍</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MehediAlam49/MehediAlam49/raw/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MehediAlam49/MehediAlam49/raw/output/snake-light.svg" />
+    <img alt="GitHub Snake animation" src="https://github.com/MehediAlam49/MehediAlam49/raw/output/snake-dark.svg" />
+  </picture>
+</p>
+
+
+
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
