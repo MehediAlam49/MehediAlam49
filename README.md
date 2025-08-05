@@ -104,9 +104,21 @@
 
 ---
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
+<!-- Profile trophies -->
+<details open>
+  
+<summary><h2>🏆 &nbsp; GitHub Profile Trophies :</summary></h2
 
-![](https://github-profile-trophy.vercel.app/?username=MehediAlam49&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <picture>
+    <!-- Light Mode Image -->
+    <source srcset="https://github-profile-trophy.vercel.app/?username=MehediAlam49&locale=en&row=1&theme=flat&margin-w=15&no-frame=true" media="(prefers-color-scheme: light)">
+    <!-- Dark Mode Image -->
+    <img src="https://github-profile-trophy.vercel.app/?username=MehediAlam49&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true" alt="GitHub Trophies">
+  </picture>
+</div>
+
+</details>
 
 
 
