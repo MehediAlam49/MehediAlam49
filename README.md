@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👀 I’m interested in web development and programming languages<br><br>
 <img src="https://cdn.dribbble.com/users/226424/screenshots/1187861/media/6a76be08e6f01699b9a3bd47bedae88f.gif" height = 100><br>
-- :classical_building: Pursuing B.Sc(Hons.) in CSE from NU <img src="./nu.webp" height=35 width=30>&nbsp; <br>
+- :classical_building: Pursuing B.Sc(Hons.) in Computer Science and Engineering from NU <img src="./nu.webp" height=35 width=30>&nbsp; <br>
 - 💻 I’m currently learning React.
 - 👯 I’m looking to collaborate on Github. 
 - 🤔 I’m looking for help with PHP 
