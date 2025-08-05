@@ -17,10 +17,18 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 👀 I’m interested in web development and programming languages<br><br>
+<img src="https://cdn.dribbble.com/users/226424/screenshots/1187861/media/6a76be08e6f01699b9a3bd47bedae88f.gif" height = 100><br>
+- :classical_building: Pursuing B.Sc(Hons.) in CSE from NU <img src="./nu.webp" height=35 width=30>&nbsp; <br>
 - 💻 I’m currently learning React.
 - 👯 I’m looking to collaborate on Github. 
 - 🤔 I’m looking for help with PHP 
-- 💬 Ask me about Web design 
+- 💬 Ask me about Web design & programming languages 😀<br>
+- 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mehedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehedialam49/) &nbsp; &nbsp;
+<a href ="mailto:mehedialam806@gmail.com"><img src="./email_icon.png" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br>
+- 😄 Pronouns: He/Him.<br>
+- ⚡ Fun fact: In my free time I read stories :books: and explore new technologies :computer: <br>
+- 💡 Feel free to share any good story or article resources with me! 📚✨<br><br> 
 <!--End Intro-->
 
 <!--Profile Count Badge-->
