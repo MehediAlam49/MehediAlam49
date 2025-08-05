@@ -104,6 +104,12 @@
 
 ---
 
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
+
+![](https://github-profile-trophy.vercel.app/?username=MehediAlam49&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+
+
+
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
