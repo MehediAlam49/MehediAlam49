@@ -143,11 +143,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=Success%20is%20like%20reaching%20an%20important%20birthday%20and%20finding%20you're%20exactly%20the%20same.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Silence%20is%20the%20great%20teacher%20and%20to%20learn%20its%20lessons%20you%20must%20pay%20attention%20to%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
