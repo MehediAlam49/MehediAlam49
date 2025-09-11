@@ -169,11 +169,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=To%20get%20angry%20is%20like%20to%20revenge%20yourself%20for%20the%20guilt%20of%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Those%20who%20dream%20by%20day%20are%20cognizant%20of%20many%20things%20which%20escape%20those%20who%20dream%20only%20by%20night.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
