@@ -176,11 +176,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=The%20greatest%20weariness%20comes%20from%20work%20not%20done.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20D.%20Rockefeller&quote=Don't%20be%20afraid%20to%20give%20up%20the%20good%20to%20go%20for%20the%20great.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
