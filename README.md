@@ -194,11 +194,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Leaders%20think%20and%20talk%20about%20solutions.%20Followers%20think%20and%20talk%20about%20the%20problems.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sonia%20Ricotti&quote=Surrender%20to%20what%20is.%20Let%20go%20of%20what%20was.%20Have%20faith%20in%20what%20will%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
