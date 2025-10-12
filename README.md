@@ -24,7 +24,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋, I'm Mehedi Alam! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me! 
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?lines=🤩Digital+Craftsman+(Developer+/+Programmer);🤩Love+Coding+and+Designing;🤩Love+Teaching+Others;💪Hard+Worker;🤔Critical+Thinker&left=true">
