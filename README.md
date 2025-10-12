@@ -4,7 +4,7 @@
 
 <!-- Personalized Name Blocks -->
 <!-- Showcasing my web development skills and creativity -->
-<a href = "https://madhurimarawat.github.io/NameBlock-Designer/"><img src = "assets/images/MEHEDI ALAM_NameBlock.png" title = "NameBlock" alt = "NameBlock"></a>
+<img src = "assets/images/ND.png" width="100%" height="100%" title = "NameBlock" alt = "NameBlock">
 
 <!-- Introduction Section-->
 <p align="center">
