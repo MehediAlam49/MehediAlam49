@@ -1,3 +1,22 @@
+<!-- Main Heading -->
+  
+<h1 align="center"> Code Connected... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="65" alt="Animated hello Gif"></h1>
+
+<!-- Personalized Name Blocks -->
+<!-- Showcasing my web development skills and creativity -->
+<a href = "https://madhurimarawat.github.io/NameBlock-Designer/"><img src = "assets/images/MEHEDI ALAM_NameBlock.png" title = "NameBlock" alt = "NameBlock"></a>
+
+<!-- Introduction Section-->
+<p align="center">
+  
+<a href="https://madhurimarawat.github.io/Badger-Icons/" target="_blank">
+        <img src="assets/images/concept-logo-1-transparent.webp" title="Transparent Icon for Python Programming (Badger-Icons)" alt="concept-icon-3-transparent.webp" width="300" height="300">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/images/Full_Stack_Development_Solution_img.png" height=250 width=250 title="Full_Stack_Development_Solution" alt="Full_Stack_Development_Solution" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://gitroll.io/profile/ufIu5CbnO9xfOKISRuY2uOsBKmYg2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ufIu5CbnO9xfOKISRuY2uOsBKmYg2" alt="GitRoll Profile Badge" height=250 width = 320 /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://raw.githubusercontent.com/madhurimarawat/madhurimarawat/main/assets/neon-cube-animation.htm" target="_blank"><img src="assets/neon-cube-animation.gif" height=250 width=250 title ="Neon Cube Name Animation Gif" alt="Neon Cube Name Animation Gif" > </a>
+</p>
+
 
 <!--Night Owl image-->
 <div>
@@ -19,13 +38,13 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👀 I’m interested in web development and programming languages<br><br>
 <img src="https://cdn.dribbble.com/users/226424/screenshots/1187861/media/6a76be08e6f01699b9a3bd47bedae88f.gif" height = 100><br>
-- :classical_building: Pursuing B.Sc(Hons.) in Computer Science and Engineering from NU <img src="./nu.webp" height=35 width=30>&nbsp; <br>
+- :classical_building: Pursuing B.Sc(Hons.) in Computer Science and Engineering from NU <img src="assets/images/nu.webp" height=35 width=30>&nbsp; <br>
 - 💻 I’m currently learning React.
 - 👯 I’m looking to collaborate on Github. 
 - 🤔 I’m looking for help with PHP 
 - 💬 Ask me about Web design & programming languages 😀<br>
 - 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mehedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehedialam49/) &nbsp; &nbsp;
-<a href ="mailto:mehedialam806@gmail.com"><img src="./email_icon.png" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br>
+<a href ="mailto:mehedialam806@gmail.com"><img src="assets/images/email_icon.png" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br>
 - 😄 Pronouns: He/Him.<br>
 - ⚡ Fun fact: In my free time I read stories :books: and explore new technologies :computer: <br>
 - 💡 Feel free to share any good story or article resources with me! 📚✨<br><br> 
@@ -42,8 +61,8 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
@@ -250,23 +269,23 @@
 <div align="center">
   
 <a href="mailto:mehedialam806@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="mehedialam806@gmail.com" style="margin-bottom: 5px;" />
+<img src="assets/images/gmail.png" width=50 height=50 alt="mehedialam806@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://twitter.com/MehediAlam49" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="MehediAlam49" style="margin-bottom: 5px;" />
+<img src="assets/images/twitter.png" width=50 height=50 alt="MehediAlam49" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/mehedialam_49/" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="mehedialam_49" style="margin-bottom: 5px;" />
+<img src="assets/images/instagram.png" width=50 height=50 alt="mehedialam_49" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/MehediAlam49" target="_blank">
-<img src="./github.png" width=50 height=50 alt="MehediAlam49" style="margin-bottom: 5px;" />
+<img src="assets/images/github.png" width=50 height=50 alt="MehediAlam49" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/mehedialam49/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="mehedialam49" style="margin-bottom: 5px;" />
+<img src="assets/images/linkedin.png" width=50 height=50 alt="mehedialam49" style="margin-bottom: 5px;" />
 </a>
 
 </div>
