@@ -219,11 +219,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=You%20find%20peace%20not%20by%20rearranging%20the%20circumstances%20of%20your%20life%2C%20but%20by%20realizing%20who%20you%20are%20at%20the%20deepest%20level.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=People%20tend%20to%20complicate%20their%20own%20lives%2C%20as%20if%20living%20weren't%20already%20complicated%20enough.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
