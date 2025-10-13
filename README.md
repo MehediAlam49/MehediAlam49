@@ -1,5 +1,5 @@
 <!-- Main Heading -->
-  
+
 <h1 align="center"> Code Connected... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="65" alt="Animated hello Gif"></h1>
 
 <!-- Personalized Name Blocks -->
@@ -8,14 +8,12 @@
 
 <!-- Introduction Section-->
 <p align="center">
-  
-<&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="assets/images/concept-logo-1-transparent.webp" title="Transparent Icon for Python Programming (Badger-Icons)" alt="concept-icon-3-transparent.webp" width="300" height="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/images/Full_Stack_Development_Solution_img.png" height=250 width=250 title="Full_Stack_Development_Solution" alt="Full_Stack_Development_Solution" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://gitroll.io/profile/ufIu5CbnO9xfOKISRuY2uOsBKmYg2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ufIu5CbnO9xfOKISRuY2uOsBKmYg2" alt="GitRoll Profile Badge" height=250 width = 320 /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/images/Full_Stack_Development_Solution_img.png" height=250 width=250 title="Full_Stack_Development_Solution" alt="Full_Stack_Development_Solution" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gitroll.io/profile/ufIu5CbnO9xfOKISRuY2uOsBKmYg2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ufIu5CbnO9xfOKISRuY2uOsBKmYg2" alt="GitRoll Profile Badge" height=250 width = 320 /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://raw.githubusercontent.com/madhurimarawat/madhurimarawat/main/assets/neon-cube-animation.htm" target="_blank"><img src="assets/neon-cube-animation.gif" height=250 width=250 title ="Neon Cube Name Animation Gif" alt="Neon Cube Name Animation Gif" > </a>
 </p>
-
 
 <!--Night Owl image-->
 <div>
@@ -23,30 +21,30 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me! 
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me!
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?lines=🤩Digital+Craftsman+(Developer+/+Programmer);🤩Love+Coding+and+Designing;🤩Love+Teaching+Others;💪Hard+Worker;🤔Critical+Thinker&left=true">
 </p>
 
-
-<!--Start Intro-->               
+<!--Start Intro-->
 <p align="left">I am a Full Stack Developer with strong expertise in Django and Python, along with experience in building APIs and backend systems.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👀 I’m interested in web development and programming languages<br><br>
-<img src="https://cdn.dribbble.com/users/226424/screenshots/1187861/media/6a76be08e6f01699b9a3bd47bedae88f.gif" height = 100><br>
+  <img src="https://cdn.dribbble.com/users/226424/screenshots/1187861/media/6a76be08e6f01699b9a3bd47bedae88f.gif" height = 100><br>
 - :classical_building: Pursuing B.Sc(Hons.) in Computer Science and Engineering from NU <img src="assets/images/nu.webp" height=35 width=30>&nbsp; <br>
 - 💻 I’m currently learning React.
-- 👯 I’m looking to collaborate on Github. 
-- 🤔 I’m looking for help with PHP 
+- 👯 I’m looking to collaborate on Github.
+- 🤔 I’m looking for help with PHP
 - 💬 Ask me about Web design & programming languages 😀<br>
-- 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mehedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehedialam49/) &nbsp; &nbsp;
-<a href ="mailto:mehedialam806@gmail.com"><img src="assets/images/email_icon.png" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br>
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mehedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehedialam49/) &nbsp; &nbsp;
+  <a href ="mailto:mehedialam806@gmail.com"><img src="assets/images/email_icon.png" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br>
 - 😄 Pronouns: He/Him.<br>
 - ⚡ Fun fact: In my free time I read stories :books: and explore new technologies :computer: <br>
-- 💡 Feel free to share any good story or article resources with me! 📚✨<br><br> 
+- 💡 Feel free to share any good story or article resources with me! 📚✨<br><br>
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -56,8 +54,7 @@
 
 ---
 
-
-<!--Languages and Tools Section-->       
+<!--Languages and Tools Section-->
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/Skills_Animation_Dark.gif">
@@ -81,8 +78,6 @@
 <br />
 <br />
 <br />
-
-
 
 <br />
 <br clear="both"/>
@@ -146,79 +141,8 @@
 
 </details>
 
-
-
-<!--Dynamic Quote card updates everyday at 12 PM--> 
+<!--Dynamic Quote card updates everyday at 12 PM-->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
@@ -226,80 +150,7 @@
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--Contact Section--> 
+<!--Contact Section-->
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
@@ -326,10 +177,7 @@
 </div>
 <br/>
 
-
-
 <br clear="both">
-
 
 <!-- Snake Contribution Animation -->
 <h2 align="center">🐍 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Aɴɪᴍᴀᴛɪᴏɴ 🐍</h2>
@@ -342,7 +190,7 @@
   </picture>
 </p>
 
-<!--Footer--> 
+<!--Footer-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
