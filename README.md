@@ -4,14 +4,13 @@
 
 <!-- Personalized Name Blocks -->
 <!-- Showcasing my web development skills and creativity -->
-<img src = "assets/images/ND.png" width="100%" height="100%" title = "NameBlock" alt = "NameBlock">
+<img src = "assets/images/MEHEDI ALAM_NameBlock.png" title = "NameBlock" alt = "NameBlock">
 
 <!-- Introduction Section-->
 <p align="center">
   
-<a href="https://madhurimarawat.github.io/Badger-Icons/" target="_blank">
-        <img src="assets/images/concept-logo-1-transparent.webp" title="Transparent Icon for Python Programming (Badger-Icons)" alt="concept-icon-3-transparent.webp" width="300" height="300">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="assets/images/concept-logo-1-transparent.webp" title="Transparent Icon for Python Programming (Badger-Icons)" alt="concept-icon-3-transparent.webp" width="300" height="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/images/Full_Stack_Development_Solution_img.png" height=250 width=250 title="Full_Stack_Development_Solution" alt="Full_Stack_Development_Solution" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://gitroll.io/profile/ufIu5CbnO9xfOKISRuY2uOsBKmYg2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ufIu5CbnO9xfOKISRuY2uOsBKmYg2" alt="GitRoll Profile Badge" height=250 width = 320 /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://raw.githubusercontent.com/madhurimarawat/madhurimarawat/main/assets/neon-cube-animation.htm" target="_blank"><img src="assets/neon-cube-animation.gif" height=250 width=250 title ="Neon Cube Name Animation Gif" alt="Neon Cube Name Animation Gif" > </a>
