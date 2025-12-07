@@ -198,11 +198,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=What%20do%20we%20live%20for%20if%20not%20to%20make%20life%20less%20difficult%20for%20each%20other%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20David%20Thoreau&quote=You%20must%20live%20in%20the%20present%2C%20launch%20yourself%20on%20every%20wave%2C%20find%20your%20eternity%20in%20each%20moment.%20Fools%20stand%20on%20their%20island%20of%20opportunities%20and%20look%20toward%20another%20land.%20There%20is%20no%20other%20land%3B%20there%20is%20no%20other%20life%20but%20this.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
