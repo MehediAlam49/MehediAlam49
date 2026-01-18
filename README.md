@@ -240,11 +240,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=You%20must%20learn%20to%20let%20go.%20Release%20the%20stress.%20You%20were%20never%20in%20control%20anyway.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=The%20wise%20accomplish%20all%20that%20they%20want%20without%20arousing%20the%20envy%20or%20scorn%20of%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
