@@ -245,11 +245,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=The%20man%20who%20does%20not%20value%20himself%2C%20cannot%20value%20anything%20or%20anyone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Heraclitus&quote=The%20content%20of%20your%20character%20is%20your%20choice.%20Day%20by%20day%2C%20what%20you%20choose%2C%20what%20you%20think%20and%20what%20you%20do%20is%20who%20you%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
