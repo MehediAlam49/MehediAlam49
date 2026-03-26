@@ -307,11 +307,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Money%20is%20only%20a%20tool.%20It%20will%20take%20you%20wherever%20you%20wish%2C%20but%20it%20will%20not%20replace%20you%20as%20the%20driver.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ford&quote=Obstacles%20are%20those%20frightful%20things%20you%20see%20when%20you%20take%20your%20eyes%20off%20your%20goal.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
