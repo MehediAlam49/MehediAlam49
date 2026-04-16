@@ -328,11 +328,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=Extraordinary%20results%20happen%20only%20when%20you%20give%20the%20best%20you%20have%20to%20become%20the%20best%20you%20can%20be%20at%20your%20most%20important%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=Others%20can%20stop%20you%20temporarily%20-%20you%20are%20the%20only%20one%20who%20can%20do%20it%20permanently.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
