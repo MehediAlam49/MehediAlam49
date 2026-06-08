@@ -381,11 +381,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Never%20put%20off%20to%20tomorrow%20what%20you%20can%20do%20to-day.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=A%20pessimist%20sees%20the%20difficulty%20in%20every%20opportunity%3B%20an%20optimist%20sees%20the%20opportunity%20in%20every%20difficulty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
