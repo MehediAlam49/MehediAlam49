@@ -399,11 +399,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mary%20Engelbreit&quote=Look%20to%20the%20beauty%20of%20this%20day%2C%20miracles%20are%20all%20around%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=I%20enjoy%20life%20when%20things%20are%20happening.%20I%20don't%20care%20if%20it's%20good%20things%20or%20bad%20things.%20That%20means%20you're%20alive.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
