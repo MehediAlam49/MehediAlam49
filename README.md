@@ -404,11 +404,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Rest%20when%20you're%20weary.%20Refresh%20and%20renew%20yourself%2C%20your%20body%2C%20your%20mind%2C%20your%20spirit.%20Then%20get%20back%20to%20work.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Brown&quote=The%20power%20of%20human%20thought%20grows%20exponentially%20with%20the%20number%20of%20minds%20that%20share%20that%20thought.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
