@@ -40,7 +40,7 @@
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for help with PHP
 - 💬 Ask me about Web design & programming languages 😀<br>
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mehedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehedialam49/) &nbsp; &nbsp;
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mehedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-mehedialam/) &nbsp; &nbsp;
   <a href ="mailto:mehedialam806@gmail.com"><img src="assets/images/email_icon.png" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br>
 - 😄 Pronouns: He/Him.<br>
 - ⚡ Fun fact: In my free time I read stories :books: and explore new technologies :computer: <br>
