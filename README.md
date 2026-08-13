@@ -447,11 +447,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=Live%20life%20as%20though%20nobody%20is%20watching%2C%20and%20express%20yourself%20as%20though%20everyone%20is%20listening.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Genghis%20Khan&quote=The%20strength%20of%20a%20wall%20is%20neither%20greater%20nor%20less%20than%20the%20courage%20of%20the%20men%20who%20defend%20it.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
