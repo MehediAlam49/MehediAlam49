@@ -460,11 +460,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=The%20first%20step%20is%20to%20establish%20that%20something%20is%20possible%3B%20then%20probability%20will%20occur.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=Ripe%20fruit%20falls%20by%20itself%20-%20but%20it%20doesn't%20fall%20in%20your%20mouth.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
