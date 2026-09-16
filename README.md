@@ -481,11 +481,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=If%20you%20build%20the%20guts%20to%20do%20something%2C%20anything%2C%20then%20you%20better%20save%20enough%20to%20face%20the%20consequences.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zen%20Proverb&quote=Someone%20who%20points%20out%20your%20flaws%20to%20you%20is%20not%20necessarily%20your%20enemy.%20Someone%20who%20speaks%20of%20your%20virtues%20is%20not%20necessarily%20your%20friend.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
