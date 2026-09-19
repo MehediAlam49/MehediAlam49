@@ -484,11 +484,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=Life%20is%20essentially%20an%20endless%20series%20of%20problems.%20The%20solution%20to%20one%20problem%20is%20merely%20the%20creation%20of%20another.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paulo%20Coelho&quote=When%20you%20repeat%20a%20mistake%2C%20it%20is%20not%20a%20mistake%20anymore%3A%20it%20is%20a%20decision.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
