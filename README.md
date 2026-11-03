@@ -529,11 +529,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Earl%20Nightingale&quote=Success%20is%20not%20the%20result%20of%20making%20money%3B%20making%20money%20is%20the%20result%20of%20success%20-%20and%20success%20is%20in%20direct%20proportion%20to%20our%20service.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Barack%20Obama&quote=We%20will%20outstretch%20the%20hand%20if%20you%20unclench%20your%20fist.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
