@@ -541,11 +541,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Graham%20Bell&quote=When%20one%20door%20closes%20another%20door%20opens.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20King&quote=Monsters%20are%20real%2C%20and%20ghosts%20are%20real%20too.%20They%20live%20inside%20us%2C%20and%20sometimes%2C%20they%20win.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
