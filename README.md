@@ -546,11 +546,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=When%20you%20have%20to%20make%20a%20choice%20and%20don't%20make%20it%2C%20that%20is%20in%20itself%20a%20choice.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=Life%20is%20from%20the%20inside%20out.%20When%20you%20shift%20on%20the%20inside%2C%20life%20shifts%20on%20the%20outside.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
